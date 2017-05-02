@@ -1,0 +1,18 @@
+#!/bin/sh
+
+cd /etc/tups/bin
+./compile &
+./compile &
+./compile &
+./compile &
+./compile &
+./judge &
+./judge &
+./judge &
+./judge &
+./judge &
+./judge &
+./judge &
+./judge &
+./sims &
+./tupsDebug 

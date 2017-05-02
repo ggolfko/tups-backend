@@ -1,0 +1,12 @@
+//DB Config
+DBHOST=127.0.0.1
+DBNAME=dbname
+PASSWORD=dbpassword
+USERNAME=dbusername
+
+//Beanstalkd config
+BEANSTALKHOST=127.0.0.1
+TUBEJUDGE=tube for beanstalkd use for judge
+TUBECOMPILE=tube for beanstalkd use for compile and run
+TUBESIM=tube for beanstalkd use for sim
+TUBEDEBUG=tube for beanstalkd use for gdb
